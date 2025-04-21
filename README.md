@@ -1,2 +1,22 @@
-# heart-disease-prediction-ml-model
- machine learning project to predict heart disease using Random Forest Classifier. This model is built on hospital patient data and demonstrates data preprocessing, model training, evaluation, and hyperparameter tuning. Developed by Abid as part of a self-learning journey in AI and machine learning.
+Heart Disease Prediction ML Model
+
+This project uses a Random Forest Classifier to predict heart disease based on patient data such as age, sex, cholesterol levels, resting blood pressure, etc.
+
+## 🔧 Features
+- Data preprocessing
+- Train-test split
+- Random Forest Classifier with accuracy evaluation
+- Hyperparameter tuning using different estimator values
+
+## 📊 Dataset
+- 303 rows and 14 columns (e.g., age, sex, cp, chol, thalach, etc.)
+- Synthetic hospital data used for academic learning
+
+## 🧠 Tools & Libraries
+- Python
+- Pandas
+- Scikit-learn
+- Jupyter Notebook
+
+## 💻 Author
+Abid Ali — Passionate about AI, healthcare data, and real-world machine learning applications.
